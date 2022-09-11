@@ -1,8 +1,13 @@
-# Ignore Gradle project-specific cache directory
-.gradle
+# Gradle
+.gradle/
+build/
+out/
+classes/
 
-# Ignore Gradle build output directory
-build
+# vscode
+.vscode/
+.settings/
+bin/
 
-# Ignore vscode specific project settings
-.vscode
+# Fabric
+run/
